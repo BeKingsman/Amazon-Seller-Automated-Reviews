@@ -5,7 +5,7 @@ from datetime import datetime
 
 time.sleep(2)
 
-starting_index=1273
+starting_index=0
 url_x=518
 url_y=60
 done_x=508
